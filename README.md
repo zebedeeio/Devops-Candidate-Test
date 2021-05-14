@@ -45,5 +45,5 @@ _____________________________________________
 - Request an AWS IAM user from Zebedee via email.
 - We will give you an IAM user with access to spin up resources in your own AWS account.
 - Use Terraform to spin up this infrastructure with the idea of automation and zero/minimal manual configuration.
-    - (100% up to you on how you want to host it)
+    - (100% up to you on how you want to host these resources)
     - If you need access to an AWS service/resources that is prohibitted, let us know, and we will give you access.
