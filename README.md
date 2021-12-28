@@ -30,7 +30,7 @@ This API will have 2-3 endpoints.
 Note: It is entirely up to you if you want to use docker-compose or other docker tooling. Make sure to have a clear and tested README.md on how one could host this locally with only docker installed.
 _____________________________________________
 # Hosting (This is Optional)
-- Request an AWS IAM user from Zebedee via email. If needed*
+- Request an AWS IAM user from Zebedee via email. *if needed
 ### Publish Docker Image
 - Publish your docker image on dockerhub or AWS ECR.
 
@@ -43,7 +43,7 @@ _____________________________________________
 
 # Terraform Automation (This is Optional)
 - Terraformize this application and infrastructure with AWS.
-- Request an AWS IAM user from Zebedee via email.
+- Request an AWS IAM user from Zebedee via email. *if needed
 - We will give you an IAM user with access to spin up resources in your own AWS account.
 - Use Terraform to spin up this infrastructure with the idea of automation and zero/minimal manual configuration.
     - (100% up to you on how you want to host these resources)
