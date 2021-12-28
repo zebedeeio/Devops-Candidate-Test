@@ -5,7 +5,7 @@ There are 2 optional sections if you find yourself with more time or want more o
 
 # Task
 ### Step 1:
-- Setup a github repo for this project. Use this repo for all code/config/scripts/documents for the project.
+- PLEASE DO NOT FORK THIS PROJECT: Setup a github or a gitlab repo for this project. Use this repo for all code/config/scripts/documents for the project. Send us the link to view the repo.
 
 ### Step 2: 
 - Create an application with an API. (Use any language you would like)
@@ -21,7 +21,7 @@ This API will have 2-3 endpoints.
 - Make sure while running the docker container you can still access the endpoints.
 
 ### Step 4: 
-- Run prometheus in docker and have it sucessfully scrape data from the /metrics endpoint.
+- Run prometheus and have it sucessfully scrape data from the /metrics endpoint.
 
 ### Step 5:
 - Use Grafana to query prometheus, display the metric(s) in a dashboard panel. (Your choice).
@@ -29,16 +29,17 @@ This API will have 2-3 endpoints.
 ### Step 6: 
 Note: It is entirely up to you if you want to use docker-compose or other docker tooling. Make sure to have a clear and tested README.md on how one could host this locally with only docker installed.
 _____________________________________________
-# Free Tier Hosting (This is Optional)
+# Hosting (This is Optional)
+- Request an AWS IAM user from Zebedee via email. If needed*
 ### Publish Docker Image
-- Publish your docker image on dockerhub.
+- Publish your docker image on dockerhub or AWS ECR.
 
 ### Public Endpoint: 
 - Host this microservice with a public endpoint.
-    - For instance, you can use Heroku.
+    - For instance, you can use Heroku or AWS ECS/EC2
 
 ### CI/CD
-- Setup a ci/cd workflow through github that updates your live service upon code changes to the application.
+- Setup a ci/cd workflow through github/gitlab that updates your live service upon code changes to the application.
 
 # Terraform Automation (This is Optional)
 - Terraformize this application and infrastructure with AWS.
