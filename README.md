@@ -1,6 +1,6 @@
 **IMPORTANT Dislaimer** 
 
-If you are unfamiliar with the material, you may spend more than 12 hours on Steps 1–6. There is no strict deadline, but please communicate your timeline and progress. Treat this as a learning opportunity, with no guarantee of compensation or a job upon completion. The optional sections is for those seeking a greater challenge.
+If you are unfamiliar with the material, you may spend more than 12 hours on Steps 1–6. There is no strict deadline, but please communicate your timeline and progress. Treat this as a learning opportunity, with no guarantee of compensation or a job upon completion. The optional sections are for those seeking a greater challenge.
 
 # Task
 ### Step 1:
