@@ -1,7 +1,6 @@
-**IMPORTANT Dislaimer** If you are unfamiliar with the material, you may spend more than 12 hours on Steps 1–6. There is no strict deadline, but please communicate your timeline and progress. Treat this as a learning opportunity, with no guarantee of compensation or a job upon completion.
+**IMPORTANT Dislaimer** 
 
-There are 2 optional sections if you find yourself with more time or want more of a challenge.
-- If doing the terraform optional section, please request credentials as early as possible.
+If you are unfamiliar with the material, you may spend more than 12 hours on Steps 1–6. There is no strict deadline, but please communicate your timeline and progress. Treat this as a learning opportunity, with no guarantee of compensation or a job upon completion. The optional sections is for those seeking a greater challenge.
 
 # Task
 ### Step 1:
