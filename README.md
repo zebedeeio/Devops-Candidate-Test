@@ -28,16 +28,17 @@ This API will have minimum 3 endpoints.
 ### Step 6: 
 Note: It is entirely up to you if you want to use docker-compose or other docker tooling. Make sure to have a clear and tested README.md on how one could host this locally with only docker installed.
 _____________________________________________
-_____________________________________________
-_____________________________________________
+
 # Optional 
+
+Important Note: You can use your own AWS account or ours, it’s your choice. If you want to use ours, please request a user account be created for you, and make sure to tag all resources with ‘creator / alias name’. 
 
 ## Hosting 
 - Host this microservice with a public endpoint.
-- Publish your docker image on dockerhub or AWS ECR.
+- Publish your docker image on dockerhub, AWS ECR, or similar.
 
 ## Terraform Automation:
-- Terraformize this application and infrastructure with AWS. (We are happy to help provide an AWS environment for you if needed).
+- Terraformize this application and infrastructure with AWS.
 
 ## CI/CD
 - Be able to spin up and spin down this infrastructure with ease via a cicd pipeline.
