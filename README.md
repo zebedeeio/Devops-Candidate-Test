@@ -1,4 +1,4 @@
-**IMPORTANT Dislaimer** 
+**IMPORTANT Dislaimer:** 
 
 If you are unfamiliar with the material, you may spend more than 12 hours on Steps 1–6. There is no strict deadline, but please communicate your timeline and progress. Treat this as a learning opportunity, with no guarantee of compensation or a job upon completion. The optional sections are for those seeking a greater challenge.
 
@@ -31,7 +31,9 @@ _____________________________________________
 
 # Optional 
 
-Important Note: You can use your own AWS account or ours, it’s your choice. If you want to use ours, please request a user account be created for you, and make sure to tag all resources with ‘creator / _Your Alias Name_’. 
+**Important Note:** 
+
+You can use your own AWS account or ours, it’s your choice. If you want to use ours, please request a user account be created for you, and make sure to tag all resources with ‘creator / _Your Alias Name_’. 
 
 ## Hosting 
 - Host this microservice with a public endpoint.
