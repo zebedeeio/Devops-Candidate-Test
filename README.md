@@ -31,7 +31,7 @@ _____________________________________________
 
 # Optional 
 
-Important Note: You can use your own AWS account or ours, it’s your choice. If you want to use ours, please request a user account be created for you, and make sure to tag all resources with ‘creator / alias name’. 
+Important Note: You can use your own AWS account or ours, it’s your choice. If you want to use ours, please request a user account be created for you, and make sure to tag all resources with ‘creator / _Your Alias Name_’. 
 
 ## Hosting 
 - Host this microservice with a public endpoint.
